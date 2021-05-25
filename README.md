@@ -20,9 +20,11 @@ You can change informations like database, ports, api_id in the api/.env file.
 
 ## Screenshots
 
-Dark Theme
+- Dark Theme
 ![image](https://user-images.githubusercontent.com/10097537/119507424-21bd3680-bd6f-11eb-8477-862ce3f7e1df.png)
-Light Theme
+
+- Light Theme
 ![image](https://user-images.githubusercontent.com/10097537/119507498-2c77cb80-bd6f-11eb-82ed-6dc4bf6fe805.png)
-Detail view
+
+- Detail view
 ![image](https://user-images.githubusercontent.com/10097537/119507585-40233200-bd6f-11eb-85a2-602ce6603382.png)
