@@ -8,7 +8,17 @@
 
 *Theses are the versions I used.
 
-## Requirements
+## Start the project
+
+- Open a terminal in the api/ folder and enter the commands: "npm i" and "npm start".
+- Open a second terminal in the client/ folder and enter the same commands.
+- Go to https://localhost:5001/ and authorize the certificate. Because the ssl certificate is "self-signed"
+and therefore not recognized by the browser.
+- Go to http://localhost:3000/
+
+You can change informations like database, ports, api_id in the api/.env file.
+
+## Screenshots
 
 Dark Theme
 ![image](https://user-images.githubusercontent.com/10097537/119507424-21bd3680-bd6f-11eb-8477-862ce3f7e1df.png)
